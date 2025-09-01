@@ -21,3 +21,7 @@ This is a Python-based game inspired by the classic arcade game "Frogger". The p
 - **Car Movement**: Cars are generated randomly on the screen and move from right to left. With each level, the cars' speed increases.
 - **Collision Detection**: If the turtle gets too close to a car (within 20 units), the game ends.
 - **Level Progression**: Successfully reaching the top of the screen resets the turtle's position and increases the game difficulty by speeding up the cars. The level counter also increases.
+
+## License
+
+This project is created for educational purpose.
